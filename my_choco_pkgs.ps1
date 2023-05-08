@@ -1,1 +1,1 @@
-choco install .\mypkgs.config -y
+choco install .\desktop-pkgs.config -y

@@ -31,5 +31,10 @@ You need to open an administrative PowerShell inside my repo and run the `my_cho
 .\my_choco_pkgs.ps1
 ```
 
-#### mypkgs.config
-This script installs packages that are in the `mypkgs.config` XML file.
+#### desktop-pkgs.config
+This script installs packages that are in the `desktop-pkgs.config` XML file.
+
+#### laptop-pkgs.config
+This script installs packages that are in the `laptop-pkgs.config` XML file.
+
+`.\my_laptop_pkgs.ps1`
